@@ -71,7 +71,15 @@ sudo nc example.com 80 GET / HTTP/1.1 Host: example.com
 
 ## output:
 
-![image](https://github.com/Irenejecinthamerlin/InformationGathering/assets/128350225/2daf5be4-00ba-4b0d-a778-530d942c049e)
+![image](https://github.com/Irenejecinthamerlin/InformationGathering/assets/128350225/2daf5be4-00ba-4b0d-a778-530d942c049e) 
+
+## http
+
+## Output:
+
+
+![image](https://github.com/Irenejecinthamerlin/InformationGathering/assets/128350225/ebe5a8ed-d87a-42c7-8dfe-050273638904)
+
 
 
 ## Tracing the Location:
